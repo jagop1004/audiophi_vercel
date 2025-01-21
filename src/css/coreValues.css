@@ -1,0 +1,36 @@
+.coreValuesContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 5rem 0;
+
+}
+.coreValuesContainer__values{
+    width: 80%;
+    background-color: black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5% 0;
+
+}
+.coreValuesContainer__values__title{
+    color: #f7657a;
+    font-family: Oswald;
+    font-style: bold;
+    font-size: 3rem;
+    text-align: center;
+}
+.coreValuesContainer__values__listItem{
+    color: white;
+    font-family: Montserrat;
+}
+.coreValuesContainer__values__resume{
+    color: white;
+    font-family: Montserrat;
+    width: 60%;
+}

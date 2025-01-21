@@ -1,0 +1,37 @@
+.productCardContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-items: center;
+    justify-content: space-evenly;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+    width: 220px;
+    height: 400px;
+    gap: 10px;
+    transition: .3s all;
+}
+.productCardContainer--hover:hover{
+    background-color: gray;
+}
+.productCardContainer__name{
+    font-family: Oswald;
+    word-wrap: break-word;
+    font-style: bold;
+    font-size: 20px;
+    font-style: 800;
+}
+.productCardContainer__image{
+    height: 200px;
+    border-radius: 10px;
+    align-self: center;
+}
+.productCardContainer__list{
+    list-style-type: none;
+    font-family: Montserrat;
+    font-size:1.1rem;
+    font-style: 800;
+    word-wrap: break-word;
+    padding:0px;
+}

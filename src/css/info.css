@@ -1,0 +1,50 @@
+.infoContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    height: 350px;
+    
+}
+.infoContainer__slogan{
+    font-family: Montserrat;
+    word-wrap: break-word;
+    font-style: bold;
+    font-size: 3rem;
+    
+}
+.infoContainer__slogan__emphasize{
+    color: #f7657a;
+}
+.infoContainer__description{
+    font-family: Oswald;
+    font-size:1.5rem;
+    font-style: 500;
+    width: 60%;
+
+}
+.infoContainer__description__emphasize{
+    color: #6276b3;
+}
+.infoContainer__button{
+    font-family: Oswald;
+    font-size:1.5rem;
+    font-style: 500;
+    display: inline-block;
+    cursor: pointer;
+    user-select: none;
+    color: black;
+    background-color: #f7657a;
+    border: none;
+    padding:0.52rem 4rem;
+    margin: 1rem 0px 0.8rem;
+    transition:0.3s;
+    border-radius: 10px;
+}
+.infoContainer__button--hover:hover{
+    background-color: #6276b3;
+
+}

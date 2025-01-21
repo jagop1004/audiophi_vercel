@@ -1,0 +1,96 @@
+.productPageContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.productPageContainer__nameAndBrandContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    gap: 20px;
+    width: 100%;
+    height: 200px;
+}
+.productPageContainer__nameAndBrandContainer__brand{
+    color: #6276b3;
+    font-family: Oswald;
+    font-size: 4rem;
+}
+.productPageContainer__nameAndBrandContainer__name{
+    color: #f7657a;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 3rem;
+}
+.productPageContainer__descriptionAndImageContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.productPageContainer__descriptionAndImageContainer__image{
+    height: 20rem;
+    width: 20rem;
+    border-radius: 10px;
+}
+.productPageContainer__descriptionAndImageContainer__description{
+    font-family: Oswald;
+    width: 50%;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+.productPageContainer__specsContainer{
+    width: 80%;
+    background-color: lightgray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5% 0;
+}
+.productPageContainer__specsContainer__title{
+    color: #f7657a;
+    font-family: Oswald;
+    font-style: bold;
+    font-size: 3rem;
+    text-align: center;
+}
+.productPageContainer__specsContainer__listItem{
+    font-family: Montserrat;
+    font-size: 1.5rem;
+}
+.productPageContainer__priceAndBuyContainer{
+    display: flex;
+    width: 80%;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+.productPageContainer__priceAndBuyContainer__buyButton{
+    background-color: #f7657a;
+    border: none;
+    border-radius: 10px;
+    height: 80px;
+    width: 500px;
+    padding: 20px;
+    transition:0.3s;
+    font-family: Oswald;
+    font-size: 1.5rem;
+}
+.productPageContainer__priceAndBuyContainer__buyButton--hover:hover{
+    background-color: #6276b3;
+    height: 90px;
+    width: 520px;
+    font-size: 1.6rem;
+}

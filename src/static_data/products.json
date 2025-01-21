@@ -1,0 +1,283 @@
+[
+    {
+      "id": 1,
+      "brand": "Sennheiser",
+      "name": "HD800S",
+      "specs": {
+        "impedance": "300Ω",
+        "frequency_response": "4Hz - 51kHz",
+        "type": "Open-back",
+        "drivers": "56mm dynamic"
+      },
+      "price": "$1,699",
+      "description": "Known for its expansive soundstage and unparalleled clarity, the HD800S is ideal for critical listening, offering precise imaging and exceptional detail.",
+      "image": "/resources/HD800S.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Audeze",
+      "name": "LCD-X",
+      "specs": {
+        "impedance": "20Ω",
+        "frequency_response": "5Hz - 20kHz",
+        "type": "Open-back",
+        "drivers": "Planar Magnetic"
+      },
+      "price": "$1,699",
+      "description": "These planar magnetic headphones offer accurate bass response and an open, natural sound with impressive detail, ideal for mixing and mastering.",
+      "image": "/resources/LCD-X.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Focal",
+      "name": "Utopia",
+      "specs": {
+        "impedance": "80Ω",
+        "frequency_response": "5Hz - 50kHz",
+        "type": "Open-back",
+        "drivers": "40mm Beryllium"
+      },
+      "price": "$4,000",
+      "description": "Utopia delivers incredible dynamics, lifelike detail, and transparency with a wide frequency range, making them perfect for audiophiles seeking perfection.",
+      "image": "/resources/Utopia.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Beyerdynamic",
+      "name": "DT 1990 Pro",
+      "specs": {
+        "impedance": "250Ω",
+        "frequency_response": "5Hz - 40kHz",
+        "type": "Open-back",
+        "drivers": "Tesla"
+      },
+      "price": "$599",
+      "description": "These highly detailed headphones offer outstanding sound quality with exceptional clarity, especially for critical listening and mixing.",
+      "image": "/resources/DT 1990 Pro.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "HIFIMAN",
+      "name": "Susvara",
+      "specs": {
+        "impedance": "60Ω",
+        "frequency_response": "6Hz - 75kHz",
+        "type": "Planar Magnetic",
+        "drivers": "Planar Magnetic"
+      },
+      "price": "$6,000",
+      "description": "Known for its exceptional detail, transparency, and soundstage, the Susvara offers an almost ethereal listening experience.",
+      "image": "/resources/Susvara.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Sony",
+      "name": "MDR-Z1R",
+      "specs": {
+        "impedance": "64Ω",
+        "frequency_response": "4Hz - 120kHz",
+        "type": "Closed-back",
+        "drivers": "70mm"
+      },
+      "price": "$2,299",
+      "description": "High-end closed-back headphones with a wide frequency range, rich bass, and crystal-clear highs, perfect for immersive listening in any environment.",
+      "image": "/resources/MDR-Z1R.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Audeze",
+      "name": "LCD-4",
+      "specs": {
+        "impedance": "200Ω",
+        "frequency_response": "5Hz - 20kHz",
+        "type": "Open-back",
+        "drivers": "Planar Magnetic"
+      },
+      "price": "$3,999",
+      "description": "The LCD-4 offers incredible bass depth, midrange clarity, and high-frequency extension, all with stunning accuracy and depth.",
+      "image": "/resources/LCD-4.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Sennheiser",
+      "name": "HD660S",
+      "specs": {
+        "impedance": "150Ω",
+        "frequency_response": "10Hz - 41kHz",
+        "type": "Open-back",
+        "drivers": "56mm dynamic"
+      },
+      "price": "$499",
+      "description": "A refined successor to the HD650, delivering smooth and natural sound with enhanced bass response and greater overall clarity.",
+      "image": "/resources/HD660S.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "AKG",
+      "name": "K812",
+      "specs": {
+        "impedance": "36Ω",
+        "frequency_response": "5Hz - 54kHz",
+        "type": "Open-back",
+        "drivers": "53mm"
+      },
+      "price": "$1,499",
+      "description": "AKG’s flagship open-back model, offering a highly accurate sound signature with crystal-clear highs and a wide soundstage.",
+      "image": "/resources/K812.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Shure",
+      "name": "SRH1540",
+      "specs": {
+        "impedance": "46Ω",
+        "frequency_response": "5Hz - 25kHz",
+        "type": "Closed-back",
+        "drivers": "40mm"
+      },
+      "price": "$499",
+      "description": "With their well-balanced sound, the SRH1540 is great for both casual listening and critical monitoring, featuring a comfortable, durable design.",
+      "image": "/resources/SRH1540.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "Focal",
+      "name": "Clear",
+      "specs": {
+        "impedance": "55Ω",
+        "frequency_response": "5Hz - 28kHz",
+        "type": "Open-back",
+        "drivers": "40mm Aluminium/Magnesium"
+      },
+      "price": "$1,490",
+      "description": "Delivering exceptional clarity and detail, the Clear headphones provide an engaging listening experience with a slightly warmer sound signature.",
+      "image": "/resources/Clear.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Beyerdynamic",
+      "name": "T1 (3rd Gen)",
+      "specs": {
+        "impedance": "600Ω",
+        "frequency_response": "5Hz - 50kHz",
+        "type": "Open-back",
+        "drivers": "Tesla"
+      },
+      "price": "$1,299",
+      "description": "These high-impedance headphones offer outstanding transparency, balance, and a broad soundstage, ideal for audiophiles and professionals alike.",
+      "image": "/resources/T1 (3rd Gen).jpg"
+    },
+    {
+      "id": 13,
+      "brand": "HIFIMAN",
+      "name": "Arya",
+      "specs": {
+        "impedance": "35Ω",
+        "frequency_response": "8Hz - 65kHz",
+        "type": "Planar Magnetic",
+        "drivers": "Planar Magnetic"
+      },
+      "price": "$1,599",
+      "description": "Featuring a wide soundstage, the Arya delivers an extremely detailed, open sound with excellent bass control and midrange clarity.",
+      "image": "/resources/Arya.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "Meze Audio",
+      "name": "99 Classics",
+      "specs": {
+        "impedance": "32Ω",
+        "frequency_response": "15Hz - 25kHz",
+        "type": "Closed-back",
+        "drivers": "40mm dynamic"
+      },
+      "price": "$309",
+      "description": "Combining style with excellent sound, the 99 Classics provide deep bass, warm mids, and clear highs, making them a favorite for both casual and audiophile listening.",
+      "image": "/resources/99 Classics.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "Bowers & Wilkins",
+      "name": "P9 Signature",
+      "specs": {
+        "impedance": "22Ω",
+        "frequency_response": "2Hz - 30kHz",
+        "type": "Closed-back",
+        "drivers": "40mm"
+      },
+      "price": "$899",
+      "description": "The P9 Signature delivers an immersive sound with rich bass, clear mids, and crisp highs, perfect for audiophiles seeking balanced and detailed sound.",
+      "image": "/resources/P9 Signature.jpg"
+    },
+    {
+      "id": 16,
+      "brand": "Fostex",
+      "name": "TH900 MK2",
+      "specs": {
+        "impedance": "25Ω",
+        "frequency_response": "5Hz - 45kHz",
+        "type": "Closed-back",
+        "drivers": "50mm"
+      },
+      "price": "$1,799",
+      "description": "These headphones offer deep, powerful bass and rich mids, paired with exceptional sound isolation, making them a top choice for bass lovers.",
+      "image": "/resources/TH900 MK2.jpg"
+    },
+    {
+      "id": 17,
+      "brand": "Campfire Audio",
+      "name": "Cascade",
+      "specs": {
+        "impedance": "32Ω",
+        "frequency_response": "15Hz - 25kHz",
+        "type": "Closed-back",
+        "drivers": "50mm"
+      },
+      "price": "$799",
+      "description": "Offering a balanced and punchy sound signature, the Cascade headphones are perfect for those who enjoy a dynamic listening experience with excellent isolation.",
+      "image": "/resources/Cascade.jpg"
+    },
+    {
+      "id": 18,
+      "brand": "Audio-Technica",
+      "name": "ATH-R70x",
+      "specs": {
+        "impedance": "470Ω",
+        "frequency_response": "10Hz - 50kHz",
+        "type": "Open-back",
+        "drivers": "45mm"
+      },
+      "price": "$349",
+      "description": "These open-back headphones offer a natural, clear, and expansive sound, making them a great option for professionals and audiophiles alike.",
+      "image": "/resources/ATH-R70x.jpg"
+    },
+    {
+      "id": 19,
+      "brand": "Stax",
+      "name": "SR-009",
+      "specs": {
+        "impedance": "145Ω",
+        "frequency_response": "7Hz - 41kHz",
+        "type": "Electrostatic",
+        "drivers": "Electrostatic"
+      },
+      "price": "$4,450",
+      "description": "The SR-009 provides unparalleled transparency, clarity, and speed, offering one of the most detailed and lifelike listening experiences available.",
+      "image": "/resources/SR-009.jpg"
+    },
+    {
+      "id": 20,
+      "brand": "ZMF Audio",
+      "name": "Atrium",
+      "specs": {
+        "impedance": "300Ω",
+        "frequency_response": "5Hz - 35kHz",
+        "type": "Open-back",
+        "drivers": "50mm dynamic"
+      },
+      "price": "$1,799",
+      "description": "These handcrafted headphones deliver a natural, balanced sound with smooth mids and a deep, immersive bass response, perfect for long listening sessions.",
+      "image": "/resources/Atrium.jpg"
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+/* Generl css */
+body {
+    margin: 0;
+    background-color: #FCFAEE;
+}
+a {
+    text-decoration: none;
+    color: #011a39;
+}
+hr{
+    background-color: #58595b;
+    border: none ;
+    padding: 0px;
+    margin: 0px;
+    height: 2px;
+    width: 100%;
+}

@@ -1,0 +1,98 @@
+.supportContainer{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 15px 0;
+    height: 80rem;
+
+}
+.supportContainer__title{
+    font-family: Oswald;
+    font-style: bold;
+    font-size: 3rem;
+    text-align: center;
+    color: #f7657a;
+}
+.supportContainer__description{
+    color: white;
+    text-align: justify;
+    font-family: Montserrat;
+    width: 50%;
+}
+.supportContainer__form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+    border: darkgray;
+    border-radius: 10px;
+    background-color: white;
+}
+.supportContainer__form__title{
+    color: #6276b3;
+    font-family: Oswald;
+    font-size: 2rem;
+    padding: 20px;
+    font-style: bold;
+}
+.supportContainer__form__inputContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.supportContainer__form__inputContainer__subtitle{
+    color: black;
+    text-align: justify;
+    font-family: Montserrat;
+    font-style: bold;
+    font-size: 1.2rem;
+}
+.supportContainer__form__inputContainer__input{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: transparent;
+    width: 100%;
+    height: 2rem;
+    font-family: Oswald;
+    font-size: 1rem;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    padding: 0px;
+    padding-left: 0.2rem;
+}
+.supportContainer__form__inputContainer__secondInput{
+    min-height: 8rem;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: transparent;
+    width: 100%;
+    height: 2rem;
+    font-family: Oswald;
+    font-size: 1rem;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.supportContainer__form__inputContainer__button{
+    font-family: Oswald;
+    font-size: 1.5rem;
+    display: inline-block;
+    cursor: pointer;
+    user-select: none;
+    background-color:#f7657a;
+    border: none;
+    padding: 0.52rem 4rem;
+    margin: 1rem 0px 0.8rem;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.supportContainer__form__inputContainer__button--hover:hover{
+    background-color: #6276b3;
+}

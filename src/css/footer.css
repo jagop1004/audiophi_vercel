@@ -1,0 +1,35 @@
+.footerContainer{
+    display: flex;
+    flex-direction: column;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: darkgray;
+    color: black;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 3% 0;
+}
+.footerContainer__logo{
+    width: 80px;
+}
+.footerContainer__socialMediaContainer{
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footerContainer__socialMediaContainer__icon{
+    height: 30px;
+    width: 30px;
+    color: black;
+}
+.footerContainer__text{
+    font-family: Oswald;
+    font-size:1.3rem;
+    font-style: 300;
+}
+.footerContainer__text__brand{
+    font-size:1.1rem;
+}
